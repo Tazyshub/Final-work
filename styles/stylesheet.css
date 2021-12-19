@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'BPG ExtraSquare Mtavruli';
+    src: url('../fonts/BPGExtraSquareMtavruli.woff2') format('woff2'),
+        url('../fonts/BPGExtraSquareMtavruli.woff') format('woff'),
+        url('../fonts/BPGExtraSquareMtavruli.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

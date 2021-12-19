@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1140px){
+    .nav ul li{
+        font-size: 12px;
+    }
+    .contact{
+        margin-left: 20px;
+    }
+    .contact p{
+        width: 150px;
+        font-size: 12px;
+    }
+    .middle_content h1{
+        font-size: 30px;
+    }
+    .middle_content p{
+        font-size: 15px;
+    }
+    .articles{
+        margin-left: 0%;
+        margin-right: 2%;
+    }
+    
+}
+
